@@ -1,6 +1,6 @@
 {
+  "resolutions": { "logkitty": "^0.7.1" },
   "expo": {
-    "resolutions": { "logkitty": "^0.7.1" },
     "name": "DoneWithIt",
     "slug": "DoneWithIt",
     "version": "1.0.0",
